@@ -14,3 +14,15 @@ Su objetivo es documentar el aprendizaje continuo, prácticas técnicas, laborat
 
 La estructura del repositorio está diseñada para mantener organización, escalabilidad y trazabilidad del crecimiento técnico a largo plazo.
 
+---
+
+## Purpose
+
+El propósito principal de este repositorio es:
+
+- Desarrollar competencias técnicas mediante práctica constante.
+- Documentar procedimientos y soluciones técnicas.
+- Crear evidencia práctica de conocimientos adquiridos.
+- Mantener una base de conocimiento profesional.
+
+
