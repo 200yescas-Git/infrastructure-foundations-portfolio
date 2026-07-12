@@ -402,3 +402,6 @@ Este repositorio sigue los siguientes principios:
 - Continuous Improvement.
 - Knowledge Organization.
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
