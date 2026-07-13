@@ -214,9 +214,7 @@ Los siguientes dominios mantienen repositorios independientes:
 
 - Linux Administration → Linux Engineering.
 - Microsoft Technologies → Microsoft Engineering.
-- Cloud Platforms → Cloud Engineering.
 - Cybersecurity Operations → Cybersecurity Engineering.
-- Software Development → Software Engineering.
 
 ## Repository Architecture
 
