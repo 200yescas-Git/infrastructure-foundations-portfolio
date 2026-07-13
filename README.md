@@ -226,7 +226,7 @@ Cada componente mantiene su propia documentación, laboratorios, proyectos y rec
 
 ### Example
 
-```
+```text
 `cisco/
 │
 ├── README.md
@@ -274,7 +274,7 @@ Cada laboratorio incluye:
 
 ### Example
 
-```
+```text
 labs/
 │
 ├── lab-01-name/
