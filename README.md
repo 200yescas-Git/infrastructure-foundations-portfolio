@@ -226,7 +226,8 @@ Cada componente mantiene su propia documentación, laboratorios, proyectos y rec
 
 ### Example
 
-cisco/
+```
+`cisco/
 │
 ├── README.md
 ├── assets/
@@ -239,6 +240,8 @@ learning-paths/
 ├── ccna/
 ├── ccnp-enterprise/
 └── ccie-enterprise/
+
+```
 
 ## Technical Domains
 
@@ -271,12 +274,13 @@ Cada laboratorio incluye:
 
 ### Example
 
+```
 labs/
 │
 ├── lab-01-name/
 ├── lab-02-name/
 └── lab-03-name/
-
+```
 
 ---
 
@@ -309,20 +313,6 @@ Toda la documentación sigue principios de:
 - Organización consistente.
 - Evidencia práctica.
 - Referencias oficiales.
-
----
-
-## Technologies & Tools
-
-Tecnologías utilizadas dentro del repositorio:
-
-| Category | Technologies |
-|---|---|
-| Operating Systems | |
-| Platforms | |
-| Tools | |
-| Automation | |
-| Security | |
 
 ---
 
